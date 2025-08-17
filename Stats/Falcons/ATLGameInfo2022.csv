@@ -1,0 +1,10 @@
+,,Game0,Game1,Game2,Game3,Game4,Game5,Game6,Game7,Game8,Game9,Game10,Game11,Game12,Game13,Game14,Game15,Game16
+0,Attendance,"70,078","71,802","68,773","69,435","68,299","69,813","66,158","68,996","69,299","72,029","69,757","53,864","70,325","70,041","70,467","69,269","69,276"
+0,Duration,3:07,2:56,2:53,2:47,3:04,2:51,2:49,3:39,2:55,3:00,2:57,2:47,2:52,2:52,2:57,2:56,2:50
+0,Over/Under,43.5 (over),46.5 (over),42.0 (over),47.5 (under),46.5 (under),45.0 (under),47.0 (over),41.0 (over),49.5 (under),41.5 (under),49.0 (over),40.5 (under),43.0 (under),43.5 (under),34.5 (under),41.0 (under),40.5 (over)
+0,Roof,retractable roof (closed),dome,outdoors,retractable roof (open),outdoors,retractable roof (open),outdoors,retractable roof (closed),retractable roof (open),outdoors,retractable roof (closed),outdoors,retractable roof (closed),dome,outdoors,retractable roof (closed),retractable roof (closed)
+0,Surface,fieldturf,matrixturf,fieldturf,fieldturf,grass,fieldturf,fieldturf,fieldturf,fieldturf,grass,fieldturf,grass,fieldturf,sportturf,grass,fieldturf,fieldturf
+0,Vegas Line,New Orleans Saints -5.5,Los Angeles Rams -10.0,Seattle Seahawks -1.0,Cleveland Browns -1.0,Tampa Bay Buccaneers -10.0,San Francisco 49ers -4.5,Cincinnati Bengals -6.5,Atlanta Falcons -4.0,Los Angeles Chargers -3.0,Atlanta Falcons -2.5,Atlanta Falcons -2.5,Washington Commanders -4.0,Atlanta Falcons -1.0,New Orleans Saints -4.0,Baltimore Ravens -6.5,Atlanta Falcons -6.0,Atlanta Falcons -4.0
+0,Weather,,,"67 degrees, relative humidity 67%, wind 6 mph",,"83 degrees, relative humidity 57%, wind 8 mph",,"73 degrees, relative humidity 43%, wind 7 mph",,,"61 degrees, relative humidity 88%, wind 12 mph",,"46 degrees, relative humidity 97%, wind 9 mph",,,"17 degrees, relative humidity 38%, wind 9 mph",,
+0,Won OT Toss,,,,,,,,Falcons,,,,,,,,,
+0,Won Toss,Saints (deferred),Rams (deferred),Falcons (deferred),Falcons (deferred),Falcons (deferred),49ers (deferred),Bengals,Panthers (deferred),Chargers (deferred),Falcons,Bears (deferred),Commanders (deferred),Falcons (deferred),Falcons (deferred),Ravens,Falcons (deferred),Falcons (deferred)

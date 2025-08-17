@@ -1,0 +1,9 @@
+,,Game0,Game1,Game2,Game3,Game4,Game5,Game6,Game7,Game8,Game9,Game10,Game11,Game12,Game13,Game14,Game15,Game16
+0,Attendance,"76,299","70,772","62,541","70,240","62,572","61,985","62,199","66,774","62,082","62,383","66,026","62,441","62,626","61,654","73,480","65,538","61,429"
+0,Duration,2:55,2:49,3:06,3:04,2:55,3:02,2:58,3:00,2:59,3:03,3:08,2:48,3:07,3:13,3:02,2:58,2:56
+0,Over/Under,44.0 (under),47.0 (over),43.5 (under),48.5 (under),44.5 (under),42.5 (under),38.5 (over),45.5 (under),38.5 (under),35.5 (under),46.0 (under),43.0 (over),40.0 (under),34.0 (over),40.5 (under),42.5 (over),37.0 (over)
+0,Roof,outdoors,outdoors,dome,dome,dome,dome,outdoors,dome,dome,dome,outdoors,dome,dome,dome,outdoors,retractable roof (closed),dome
+0,Surface,grass,a_turf,grass,matrixturf,grass,grass,grass,fieldturf,grass,grass,grass,grass,grass,grass,grass,fieldturf,grass
+0,Vegas Line,Denver Broncos -3.0,Buffalo Bills -8.0,Las Vegas Raiders -3.0,Los Angeles Chargers -5.5,Las Vegas Raiders -1.5,Las Vegas Raiders -2.5,Las Vegas Raiders -2.5,Detroit Lions -7.0,Las Vegas Raiders -1.5,New York Jets -1.5,Miami Dolphins -13.5,Kansas City Chiefs -10.0,Minnesota Vikings -3.0,Las Vegas Raiders -3.0,Kansas City Chiefs -10.5,Indianapolis Colts -4.0,Las Vegas Raiders -3.0
+0,Weather,"64 degrees, relative humidity 65%, wind 12 mph","70 degrees, relative humidity 57%, wind 4 mph",,,,,"52 degrees, relative humidity 68%, wind 8 mph",,,,"82 degrees, relative humidity 71%, wind 7 mph",,,,"38 degrees, relative humidity 82%, wind 11 mph",,
+0,Won Toss,Broncos (deferred),Bills (deferred),Raiders (deferred),Raiders (deferred),Raiders (deferred),Patriots (deferred),Bears,Raiders (deferred),Raiders (deferred),Jets (deferred),Dolphins (deferred),Chiefs (deferred),Vikings (deferred),Raiders (deferred),Raiders (deferred),Raiders (deferred),Raiders (deferred)
