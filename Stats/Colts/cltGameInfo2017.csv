@@ -1,0 +1,10 @@
+,,Game0,Game1,Game2,Game3,Game4,Game5,Game6,Game7,Game8,Game9,Game10,Game11,Game12,Game13,Game14,Game15
+0,Attendance,"60,128","63,137","63,351","68,872","65,612","63,888","63,104","57,901","71,709","66,146","62,207","61,207","60,222","63,411","70,590","60,557"
+0,Duration,2:59,3:16,3:18,3:14,3:32,3:12,2:55,3:11,3:12,3:06,2:55,3:01,3:15,3:00,2:56,2:50
+0,Over/Under,41.5 (over),44.0 (under),42.0 (over),41.5 (over),43.5 (over),46.0 (over),41.0 (under),44.0 (over),45.0 (under),47.0 (under),46.5 (under),41.0 (under),36.5 (under),40.5 (under),41.0 (under),41.5 (under)
+0,Roof,outdoors,retractable roof (closed),retractable roof (closed),outdoors,retractable roof (closed),outdoors,retractable roof (closed),outdoors,retractable roof (closed),retractable roof (closed),retractable roof (open),outdoors,outdoors,retractable roof (closed),outdoors,retractable roof (closed)
+0,Surface,grass,fieldturf,fieldturf,fieldturf,fieldturf,grass,fieldturf,fieldturf,astroturf,fieldturf,fieldturf,grass,a_turf,fieldturf,grass,fieldturf
+0,Vegas Line,Los Angeles Rams -3.5,Arizona Cardinals -7.0,Cleveland Browns -1.0,Seattle Seahawks -12.5,Indianapolis Colts -1.0,Tennessee Titans -7.0,Jacksonville Jaguars -3.0,Cincinnati Bengals -11.0,Houston Texans -6.0,Pittsburgh Steelers -10.5,Tennessee Titans -3.0,Jacksonville Jaguars -10.0,Buffalo Bills -3.5,Denver Broncos -3.0,Baltimore Ravens -13.5,Indianapolis Colts -5.5
+0,Weather,"90 degrees, wind 2 mph",,,"61 degrees, wind 8 mph",,"57 degrees, wind 7 mph",,"39 degrees, wind 9 mph",,,,"70 degrees, wind 7 mph","32 degrees, wind 15 mph",,"63 degrees, wind 14 mph",
+0,Won OT Toss,,Colts,,,Colts,,,,,,,,Bills,,,
+0,Won Toss,Colts (deferred),Cardinals,Colts (deferred),Seahawks (deferred),49ers (deferred),Colts (deferred),Colts (deferred),Bengals (deferred),Colts (deferred),Colts (deferred),Titans (deferred),Jaguars (deferred),Colts (deferred),Colts (deferred),Ravens (deferred),Texans (deferred)
