@@ -16,6 +16,7 @@ ScrapeStats.ipynb - Python script to scrape statistics off of PFR and store them
 
 Stats/  - Directory containing the stats of every game played by every team for all seasons between 2018 and 2023.
 
+FootballTester.ipynb - Program to work on whatever project I am currently attacking, before formal file is created once finished
 #
 ### Current Research
 
