@@ -1,15 +1,15 @@
-# Using Machine Learning to Predict NFL Spreads
+# Using Data Science and Machine Learning to Predict NFL Spreads
 
 ### Most Recent Update
-After a long and succesful midterm season, I am getting back to work on this project. I have collected all the data, and produced proof of concept plots showing simple relationships like teams that are more successful on third downs, score more points (go figure). 
+After a long first semester of my senior year, I am getting back to work on this project. Currently, I have retrieved game statistics and information from thousands of games across eight seasons. Furthermore, I have analyzed the statistics and identified several key metrics that correlate with performance against the spread. For example, teams that convert a higher percentage of their third-down attempts tend to perform much better against the spread than Vegas predicts.
+
+For my final semester of college, I have enrolled in two machine learning courses: _Introduction to Machine Learning_ and _Bayesian Methods for Machine Learning_ (course descriptions below). I plan to bridge the gap between my academic coursework and this project by applying these concepts directly to my analysis. Finally, I have one or two remaining validation checks to complete to ensure the accuracy of the collected statistics.
 
 Next Steps: 
 
-1. Validate and test the data collection process to ensure accurate stastistics.
-2. Idenfify key relationships between statistical catagories and final score difference.
-3. Isolate, and begin implementation of the Machine Learning Program. 
-
-Throughout these next few weeks, I will be learning and developing skills in machine learning and owning a project from start to finish. I expect to take a break for finals in about two weeks, then get back to the work during the holiday season.
+1. Validate and test the data collection process to ensure accurate statistics.
+2. Fix a bug in the database architecture that retrieves incorrect data when parsed by programs.
+3. Become more familiar with machine learning algorithms through coursework and implement the lessons learned when developing the predictive machine learning model.
 
 ### Synopsis
 In this project, I will attempt to use a calibration-incentivized machine learning algorithm to beat Vegas betting lines, specifically the spread. To do this, I will feed in historical data currently dating back to 2017 (though I may pull older statistics). These statistics are pulled from Pro Football Reference (PFR) and stored in the directory "Stats."
@@ -25,6 +25,8 @@ This README will change throughout the project but will serve as a record of my 
 
 ScrapeStats.ipynb - Python script to scrape statistics off of PFR and store them in the corrosponding directory.
 
+UniversalFunctions.ipynb - Function that are consistantly used to pull from a database, and parse relavant data.
+
 Stats/  - Directory containing the stats of every game played by every team for all seasons between 2018 and 2023.
 
 FootballTester.ipynb - Program to work on whatever project I am currently attacking, before formal file is created once finished
@@ -36,3 +38,14 @@ Beyond general background reading, two research papers, in particular, have been
 > Brandon, Daniel. (2024). Predicting NFL Point Spreads via Machine Learning. International Journal of Data Analytics. 5. 1-18. 10.4018/IJDA.342851.
 
 > Conor Walsh, Alok Joshi. Machine Learning for Sports Betting: Should Model Selection Be Based on Accuracy or Calibration? Machine Learning with Applications, Volume 16, 2024, 100539, ISSN 2666-8270.
+
+### Releavent Course Listings with Description:
+
+EECS 445. Introduction to Machine Learning: 
+
+>Theory and implementation of state-of-the-art machine learning algorithms for large-scale real-world applications. Topics include supervised learning (regression, classification, kernel methods, neural networks, and regularization) and unsupervised learning (clustering, density estimation, and dimensionality reduction). For each topic, mathematical principles, key algorithmic ideas, and implementation will be highlighted
+
+
+EECS 498-009. Bayesian Methods for Machine Learning
+
+>This course will cover modern machine learning techniques from a Bayesian probabilistic perspective. Bayesian probability allows us to quantify, model and reason about all types of uncertainty. The result is a powerful, internally-consistent framework for approaching many problems that arise in machine learning, including parameter estimation, model comparison, and decision making.
